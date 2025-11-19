@@ -57,12 +57,5 @@ Proyek ini bertujuan untuk:
 - **Tidak Ada Dependensi Eksternal**: Skrip ini tidak memerlukan pustaka atau dependensi eksternal selain interpreter Lua standar.
 - **Fokus Proyek**: Proyek ini berfokus pada perhitungan kinematika robot tanpa memperhitungkan faktor-faktor seperti dinamika, traksi, atau gesekan roda.
 
-## Kontribusi
-
-Kami sangat menghargai kontribusi dari komunitas! Jika Anda tertarik untuk berkontribusi:
-
-1. Fork repositori ini dan buat branch untuk fitur atau perbaikan Anda.
-2. Tambahkan kode atau fitur baru, serta perbaiki bug yang ada.
-3. Kirim pull request dengan penjelasan mendetail tentang perubahan yang Anda buat.
 
 
